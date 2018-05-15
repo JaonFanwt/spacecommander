@@ -1,0 +1,14 @@
+{
+  "name": "spacecommander",
+  "version": "1.1.10",
+  "description": "[ SpaceCommander] provides tools which enable you to commit Objective-C code to a git repository using a unified style format.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Square, Inc.",
+  "license": "Apache-2.0"
+}
